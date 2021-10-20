@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad7af9975dc4e14ca700f116081a1994",
+    "revision": "2de5a188e1d25d9b7c03865261ed7406",
     "url": "/index.html"
   },
   {
-    "revision": "9ad55f5b232fa4a9aeff",
-    "url": "/static/css/main.ec64274d.chunk.css"
+    "revision": "016b20d2ee989e6a1f6d",
+    "url": "/static/css/main.8f7eb187.chunk.css"
   },
   {
-    "revision": "715f3bd104c2e8bc5d02",
-    "url": "/static/js/2.3dc91ef6.chunk.js"
+    "revision": "2e6bbf7ce7718ffac21c",
+    "url": "/static/js/2.bef890ae.chunk.js"
   },
   {
     "revision": "8a9adb48f7af2062183ac70b4922c4ef",
-    "url": "/static/js/2.3dc91ef6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bef890ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ad55f5b232fa4a9aeff",
-    "url": "/static/js/main.8de14fd2.chunk.js"
+    "revision": "016b20d2ee989e6a1f6d",
+    "url": "/static/js/main.ff911815.chunk.js"
   },
   {
     "revision": "c881959c28e06a19e431",
@@ -128,8 +128,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/beginning2.9a7bb05c.jpg"
   },
   {
-    "revision": "eaea08fc2897d73235bcd276b4ecc3fe",
-    "url": "/static/media/bepractice.eaea08fc.png"
+    "revision": "90d7ae67b50d2b175a4f1e20b261c193",
+    "url": "/static/media/bepractice.90d7ae67.png"
+  },
+  {
+    "revision": "c5a796b11744ef6f2f090335d4d834cd",
+    "url": "/static/media/blackbird.c5a796b1.jpg"
+  },
+  {
+    "revision": "b0d7b8dc9b65ad8996d4a8bf58dfd4d5",
+    "url": "/static/media/book1.b0d7b8dc.jpeg"
+  },
+  {
+    "revision": "ec31966857f4f421c6d0cc6c62430123",
+    "url": "/static/media/book2.ec319668.jpeg"
+  },
+  {
+    "revision": "fd70fc414bf9a7e85b127175b3c0f2fd",
+    "url": "/static/media/book3.fd70fc41.jpeg"
+  },
+  {
+    "revision": "3a2d0a256dde360926d8c1d1353fa126",
+    "url": "/static/media/book4.3a2d0a25.jpeg"
+  },
+  {
+    "revision": "ffc3d37146f6e9cc830ad366a1b854df",
+    "url": "/static/media/book5.ffc3d371.jpeg"
+  },
+  {
+    "revision": "d2d37ceaf18c78c71b6356e0610e051d",
+    "url": "/static/media/bookHeader.d2d37cea.jpeg"
   },
   {
     "revision": "958ea57fbb70c134df2fae773a09dbe3",
@@ -188,6 +216,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/irekProfile.fb2eb113.jpg"
   },
   {
+    "revision": "b6747e6ac43960f12ba6910270174885",
+    "url": "/static/media/politechnika.b6747e6a.jpg"
+  },
+  {
     "revision": "0be96c7196468c431c273ea26fa20c0d",
     "url": "/static/media/videoThumb1.0be96c71.png"
   },
@@ -198,6 +230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "643270575e7f8d871dab8dd3ec03e060",
     "url": "/static/media/videoThumb2.64327057.png"
+  },
+  {
+    "revision": "e8cdd62e9ad46fc9b56faa33a23a6c2b",
+    "url": "/static/media/videoThumb3.e8cdd62e.png"
   },
   {
     "revision": "027a052fab580602a6e6e21997409e52",
