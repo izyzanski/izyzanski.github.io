@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06b0c0145f8a5b9159b0f5e9df20758e",
+    "revision": "a163cb1e460096d9476b306f4c3bdbf3",
     "url": "/index.html"
   },
   {
-    "revision": "37b21b0a62d3e82c5f86",
+    "revision": "6273dfc470563baf6a2c",
     "url": "/static/css/main.53234541.chunk.css"
   },
   {
-    "revision": "2e6bbf7ce7718ffac21c",
-    "url": "/static/js/2.bef890ae.chunk.js"
+    "revision": "a1a5fcbace7034544244",
+    "url": "/static/js/2.386f7a50.chunk.js"
   },
   {
     "revision": "8a9adb48f7af2062183ac70b4922c4ef",
-    "url": "/static/js/2.bef890ae.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.386f7a50.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37b21b0a62d3e82c5f86",
-    "url": "/static/js/main.77572ec2.chunk.js"
+    "revision": "6273dfc470563baf6a2c",
+    "url": "/static/js/main.14a84a7f.chunk.js"
   },
   {
     "revision": "c881959c28e06a19e431",
@@ -116,18 +116,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/art9SituationalLeadership.a3d039e2.jpg"
   },
   {
-    "revision": "f61ba23133bf6ca8a2b7b6a7a52e4130",
-    "url": "/static/media/bFruga.f61ba231.png"
-  },
-  {
-    "revision": "734d019b02084b1666bc371305ab9a8f",
-    "url": "/static/media/beginning1.734d019b.jpg"
-  },
-  {
-    "revision": "9a7bb05c01235b2652815bfad7ad39c7",
-    "url": "/static/media/beginning2.9a7bb05c.jpg"
-  },
-  {
     "revision": "90d7ae67b50d2b175a4f1e20b261c193",
     "url": "/static/media/bepractice.90d7ae67.png"
   },
@@ -160,14 +148,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bookHeader.d2d37cea.jpeg"
   },
   {
-    "revision": "958ea57fbb70c134df2fae773a09dbe3",
-    "url": "/static/media/bss.958ea57f.png"
-  },
-  {
-    "revision": "4b1e1a99b9ecc1fd0d0a2b91ecf56a6c",
-    "url": "/static/media/ccl.4b1e1a99.png"
-  },
-  {
     "revision": "fa9cbcf84b15bea7da91222294fd3287",
     "url": "/static/media/coachwise.fa9cbcf8.png"
   },
@@ -182,14 +162,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "db6a58993263ed26174ae1258f111238",
     "url": "/static/media/eifid.db6a5899.png"
-  },
-  {
-    "revision": "32cef6f56c8da586efad8dec5b10c238",
-    "url": "/static/media/heroBook.32cef6f5.jpg"
-  },
-  {
-    "revision": "c19c3f904fc05bf4c75d261e5ec61b2c",
-    "url": "/static/media/heroHome.c19c3f90.jpg"
   },
   {
     "revision": "e024d48495f5ff0876fd8474ed139949",
